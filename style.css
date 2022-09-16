@@ -1,0 +1,64 @@
+.slick-next i, .slick-prev i {
+		color: #22242b !important;
+	}
+	.lnkbio-bgcolor, body, .pb-helper.lnkbio-bgcolor {
+		background-color:#22242b;
+	}
+	.slick-next, .slick-prev {
+		background-color:#fefefe !important
+	}
+	.lnkbio-headingscolor {
+		color:#fefefe;
+	}	a.lnkbio-headingscolor:hover {
+		color:#fefefe !important;
+	}
+	.lnkbio-biocolor {
+		color:#fefefe;
+	}
+	.lnkbio-iconscolor {
+		color:#fefefe;
+	}
+	.effect-gradient .pb-linkbox-inner,
+	.effect-summer .pb-linkbox-inner {
+		box-shadow: 2px 1000px 1px #4e5055 inset;
+	}
+	.lnkbio-boxcolor {
+		background-color:#4e5055;
+	}
+	.lnkbio-linkcolor, a.linkcolor:not([href]) {
+		color:#fefefe;
+	}	a.lnkbio-linkcolor, a.linkcolor:not([href]):hover {
+		color:#fefefe !important;
+	}
+	.effect-box .pb-linkbox-inner::before {
+		border-color: #4e5055 !important;
+	}
+	.effect-progress .pb-linkbox-inner::before {
+		border-color: #4e5055 !important;
+	}
+	.lnkbio-boxcolor {
+		border:2px solid #CCC; border-color:#4e5055;
+	}
+	.blockseparator {
+		background-color:#4e5055
+	}
+	.effect-shadow .pb-linkbox-inner {
+		box-shadow: #4e5055 10px 10px 0 0;
+	}
+	.effect-striped .pb-linkbox-inner::before {
+		background: repeating-linear-gradient(45deg,
+			transparent 0,transparent 2px,#4e5055 2px,#4e5055 4px
+		);
+		border-color: #4e5055 !important;
+	}
+	.effect-box .pb-linkbox-inner::before {
+		background: #4e5055;
+	}
+	.btn-cause::before,
+	.btn-cause::after { 
+		background: #4e5055;
+		border-color: #4e5055 !important;
+	}
+		.page-inject-PAGE_CAUSES {
+			background: repeating-linear-gradient(90deg, #4e5055 0,#4e5055 20%,white 20%,white 40%,#fefefe 40%,#fefefe 60%,white 60%,white 80%,#4e5055 80%,#4e5055 100%)
+		}
