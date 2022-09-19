@@ -10,16 +10,15 @@ body{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    background: url(https://cdndev.lnk.bi/themes/631736d8ab0bd-dev.svgz) no-repeat top center fixed;
 }
 
-/* body.dark {
-	background-image: url('../imgs/dark_bg.jpg');
+body.dark {
+	 background: url(https://cdndev.lnk.bi/themes/631736d8ab0bd-dev.svgz) no-repeat top center fixed;
 }
 
 body.light {
 	background-image: url('../imgs/light_bg.jpg');
-}*/
+}
 	
 #check {
     display: none;
