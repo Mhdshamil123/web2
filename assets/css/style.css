@@ -59,7 +59,7 @@ body.light {
     height: 270px;
     top: 0;
     left: 0;
-    background-color: #10d1e3
+    background-color: #10d1e3;
     clip-path: circle(400px at 50% -48.5%);
 }
 
@@ -157,7 +157,7 @@ body.light {
     height: 100%;
     top: 0;
     left: 0;
-    background-color: rgba(254, 79, 79, 0.7);
+    background-color: #10d1e3;
     display: flex;
     justify-content: center;
     align-items: center;
