@@ -12,11 +12,11 @@ body{
     background-size: cover;
 }
 
-body.dark {
+.body .dark {
 	 background: url(https://cdndev.lnk.bi/themes/631736d8ab0bd-dev.svgz) no-repeat top center fixed;
 }
 
-body.light {
+.body .light {
 	background-image: url('../imgs/light_bg.jpg');
 }
 	
