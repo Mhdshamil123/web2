@@ -974,7 +974,7 @@ body{
 	 background-color: #fffdf2;
 }
  .toggle-input:checked ~ .toggle-bg {
-	 background-color: #484848;
+	 background: url(https://cdndev.lnk.bi/themes/631736d8ab0bd-dev.svgz) no-repeat top center fixed;
 	 border-color: #202020;
 }
  .toggle-input:checked ~ .toggle-switch .toggle-switch-figure {
