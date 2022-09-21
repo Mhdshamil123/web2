@@ -388,11 +388,7 @@ particlesJS("particles-js", {
           }
      },
      "retina_detect": true
-})
-
-kofiWidgetOverlay.draw('xditya', {
-               'type': 'floating-chat',
-               'floating-chat.donateButton.text': 'Support me',
-               'floating-chat.donateButton.background-color': '#323842',
-               'floating-chat.donateButton.text-color': '#fff'
-          });
+function cb(response) {
+    document.getElementById('visits').innerText = response.value;
+}
+});
